@@ -71,17 +71,3 @@ Crop diseases significantly impact food security and agricultural economics. Thi
    - Accuracy, Precision, Recall, F1-score, Confusion Matrix.
 
 ---
-
-
-
-
-| Input Image | Detected | Disease Class |
-|-------------|----------|---------------|
-| ![tomato](images/sample1.jpg) | ✅ | Tomato Leaf Curl Virus |
-| ![cotton](images/sample2.jpg) | ✅ | Cotton Leaf Spot |
-| ![rice](images/sample3.jpg)   | ✅ | Rice Blast |
-
----
-
-## 📁 Folder Structure
-
